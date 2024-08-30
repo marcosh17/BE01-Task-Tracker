@@ -1,0 +1,6 @@
+python task_tracker.py add --description "Learn Python"
+python task_tracker.py add --description "Create a Task Tracker"
+python task_tracker.py add --description "Learn OOP"
+python task_tracker.py add --description "Refactor the code"
+
+python task_tracker.py add --description "Create a Task Tracker" "Learn OOP" "Refactor the code" "Write unit tests"

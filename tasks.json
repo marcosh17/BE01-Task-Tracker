@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "description": "Create a Task Tracker",
+        "status": "todo",
+        "createdAt": "2024-08-30T20:46:54.249528",
+        "updatedAt": "2024-08-30T20:46:54.249528"
+    },
+    {
+        "id": 2,
+        "description": "Learn OOP",
+        "status": "todo",
+        "createdAt": "2024-08-30T20:46:54.249528",
+        "updatedAt": "2024-08-30T20:46:54.249528"
+    },
+    {
+        "id": 3,
+        "description": "Refactor the code",
+        "status": "todo",
+        "createdAt": "2024-08-30T20:46:54.250525",
+        "updatedAt": "2024-08-30T20:46:54.250525"
+    },
+    {
+        "id": 4,
+        "description": "Write unit tests",
+        "status": "todo",
+        "createdAt": "2024-08-30T20:46:54.250525",
+        "updatedAt": "2024-08-30T20:46:54.250525"
+    }
+]
